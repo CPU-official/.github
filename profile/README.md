@@ -51,7 +51,6 @@
       <li><a href="https://github.com/yxonsz">이연수</a></li>
       <li><a href="https://github.com/jaxhx3xx">정재희</a></li>
       <li><a href="https://github.com/yerin211">방예린</a></li>
-      <li><a href="https://github.com/nayeon16">황나연</a></li>
       <li><a href="https://github.com/thisiz0117">이건우</a></li>
       <li><a href="https://github.com/myeongjun09">최명준</a></li>
     </ul>
