@@ -1,4 +1,4 @@
-## 🌟 CPU - C Project with U 🌟
+## 🌟 CPU - Creative Performance with U. 🌟
 
 > 경험과 나눔을 통해 함께 성장하는 전공 동아리 CPU입니다! <br/>
 <br/>
