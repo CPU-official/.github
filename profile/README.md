@@ -1,5 +1,5 @@
 ## 🌟 CPU - Creative Performance with U. 🌟
-
+<b>작은 아이디어가, 세상에 남을 결과가 되기까지 시도하는 사람들</b>
 > 경험과 나눔을 통해 함께 성장하는 전공 동아리 CPU입니다! <br/>
 <br/>
 
