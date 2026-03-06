@@ -51,6 +51,7 @@
       <li><a href="https://github.com/yerin211">방예린</a></li>
       <li><a href="https://github.com/thisiz0117">이건우</a></li>
       <li><a href="https://github.com/myeongjun09">최명준</a></li>
+      <li><a href="">안이현</a></li>
     </ul>
   </div>
 </details>
